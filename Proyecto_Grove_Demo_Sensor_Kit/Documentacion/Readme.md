@@ -24,7 +24,7 @@ Desarrollar 5 actividades donde se implemente el uso y manejo de todos los senso
 
 Computadora **Raspberry Pi 3** modelo B+
 
-![Image Raspberry](https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg = 250x250)
+![Image Raspberry](https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg =250x250)
 
 SoC Broadcom BCM2837B0 con 
 procesador ARM Cortex A53, 64 bits, 1.4 GHz,
