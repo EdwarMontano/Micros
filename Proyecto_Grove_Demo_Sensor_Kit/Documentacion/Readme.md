@@ -24,7 +24,7 @@ Desarrollar 5 actividades donde se implemente el uso y manejo de todos los senso
 
 Computadora **Raspberry Pi 3** modelo B+
 
-<img width="50px" src="https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg">
+<img width="250px" src="https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg">
 ![Image Raspberry](https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg | width=48)
 
 ![test](https://github.com/favicon.ico | width=48)
