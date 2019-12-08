@@ -33,7 +33,7 @@ lector microSD, 4 x USB 2.0, Ethernet 10/100/300,
 WiFi 2.4 GHz y 5 GHz, Bluetooth, 28 pines I/O con UART, SPI y I²C. Original [1]
 
 **GrovePi +  Kit**
-![Image grovepi](https://www.mcielectronics.cl/website/image/product.template/19751_7720929/image)
+![Image grovepi](https://www.mcielectronics.cl/website/image/product.template/19751_7720929/image = 250x250)
 Soporta Raspberry Pi 3 modelo A+ y B+
 
 7 Puertos Digitales 
