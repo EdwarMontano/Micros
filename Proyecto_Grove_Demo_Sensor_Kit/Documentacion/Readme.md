@@ -23,19 +23,19 @@ Desarrollar 5 actividades donde se implemente el uso y manejo de todos los senso
 ### II.	SOFTWARE Y HARDWARE A UTILIZAR
 
 
-First Header | Second Header
+Computadora **Raspberry Pi 3** modelo B+ | **GrovePi +  Kit**
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-First Header | Second Header
------------- | -------------
-Content in the first column | Content in the second column
+<img width="250px" src="https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg"> | <img width="250px" src="https://www.mcielectronics.cl/website/image/product.template/19751_7720929/image">
+*SoC Broadcom BCM2837B0 con 
+*procesador ARM Cortex A53, 64 bits, 1.4 GHz,
+*1 GB RAM, GPU VideoCore IV, salida de video HDMI, salida de audio y video compuesto 3.5 mm, 
+*lector microSD, 4 x USB 2.0, Ethernet 10/100/300, 
+*WiFi 2.4 GHz y 5 GHz, Bluetooth, 28 pines I/O con UART, SPI y I²C. Original [1] | Second Header
 
-Computadora **Raspberry Pi 3** modelo B+
 
-<img width="250px" src="https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg">
-![Image Raspberry](https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg | width=48)
 
-![test](https://github.com/favicon.ico | width=48)
+
+
 
 SoC Broadcom BCM2837B0 con 
 procesador ARM Cortex A53, 64 bits, 1.4 GHz,
@@ -43,8 +43,7 @@ procesador ARM Cortex A53, 64 bits, 1.4 GHz,
 lector microSD, 4 x USB 2.0, Ethernet 10/100/300, 
 WiFi 2.4 GHz y 5 GHz, Bluetooth, 28 pines I/O con UART, SPI y I²C. Original [1]
 
-**GrovePi +  Kit**
-![Image grovepi](https://www.mcielectronics.cl/website/image/product.template/19751_7720929/image = 250x250)
+
 Soporta Raspberry Pi 3 modelo A+ y B+
 
 7 Puertos Digitales 
