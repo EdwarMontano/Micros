@@ -23,10 +23,10 @@ Desarrollar 5 actividades donde se implemente el uso y manejo de todos los senso
 ### II.	SOFTWARE Y HARDWARE A UTILIZAR
 
 
-Computadora **Raspberry Pi 3** modelo B+
+First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-**GrovePi +  Kit**
+First Header | Second Header
 ------------ | -------------
 Content in the first column | Content in the second column
 
