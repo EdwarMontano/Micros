@@ -20,6 +20,32 @@ Desarrollar 5 actividades donde se implemente el uso y manejo de todos los senso
 * Diseñar una interfaz gráfica para que el usuario pueda interactuar con cada actividad de forma visual e intuitiva
 *	Implementar una buena metodología de desarrollo como lo es RUP para llevar a cabo el proyecto de manera eficiente
 
+### II.	SOFTWARE Y HARDWARE A UTILIZAR
+
+Computadora **Raspberry Pi 3** modelo B+
+
+![Image Raspberry](https://suconel.com/wp-content/uploads/91zSu4434L._SL1500_-1.jpg)
+
+SoC Broadcom BCM2837B0 con 
+procesador ARM Cortex A53, 64 bits, 1.4 GHz,
+1 GB RAM, GPU VideoCore IV, salida de video HDMI, salida de audio y video compuesto 3.5 mm, 
+lector microSD, 4 x USB 2.0, Ethernet 10/100/300, 
+WiFi 2.4 GHz y 5 GHz, Bluetooth, 28 pines I/O con UART, SPI y I²C. Original [1]
+
+**GrovePi +  Kit**
+![Image grovepi](https://www.mcielectronics.cl/website/image/product.template/19751_7720929/image)
+Soporta Raspberry Pi 3 modelo A+ y B+
+
+7 Puertos Digitales 
+3 Puertos Analogos
+3 Puertos I2C
+1 Puerto Serial para conectar a GrovePi +
+1 Puerto Serial para conectar a RaspberryPi
+12 Módulos Principales
+Posee un Microcontrolador Atmega 328p [2]
+
+
+
 ## Fase II Code en Python 
 ## Fase III GUI en Python
 
