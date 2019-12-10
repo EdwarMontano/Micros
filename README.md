@@ -1,15 +1,15 @@
 # MICROPROCESSORS AND ASSEMBLER - 710171M Univalle
 asignatura Microcontroladores y assembler 
 
-<div class="divTable">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Univalle.svg" alt="Univalle">   </div>
-<div class="divTableCell" > <img width="300px" src="https://bostonmedical.com.co/wp-content/uploads/2014/07/bgflblanc.png" alt="Space"></div>
-<div class="divTableCell" > <img width="250px" src="https://i.ibb.co/6vdWxb4/PSI-LOGO.png" alt="PSI"></div>
-</div>
-</div>
-</div>
+<table>
+<tbody>
+<tr>
+<td><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Univalle.svg" alt="Univalle"> </td>
+<td><img width="250px" src="https://i.ibb.co/6vdWxb4/PSI-LOGO.png" alt="PSI"></td>
+</tr>
+</tbody>
+</table>
+
 
 
 
