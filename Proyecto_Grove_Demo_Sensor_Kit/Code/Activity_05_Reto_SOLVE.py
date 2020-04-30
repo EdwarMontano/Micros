@@ -3,9 +3,9 @@ from grovepi import *
 
 # Connect the Grove LED to digital port D4
 
-led_green = 3
-led_blue = 4
-led_red = 2
+led_green = 2
+led_blue = 3
+led_red = 4
 
 pinMode(led_green,"OUTPUT")
 pinMode(led_blue,"OUTPUT")
@@ -47,14 +47,6 @@ while True:
         digitalWrite(led_red,0)     # Send LOW to switch off LED
         print ("LED Rojo OFF!")
         time.sleep(1)
-        
-        digitalWrite(led_blue,1)     # Send HIGH to switch on LED
-        print ("Atento !")
-        time.sleep(1)
-
-        digitalWrite(led_blue,0)     # Send LOW to switch off LED
-        print ("Led Azul OFF!")
-        time.sleep(1)  
 
     except KeyboardInterrupt:   # Turn LED off before stopping
         digitalWrite(led,0)
