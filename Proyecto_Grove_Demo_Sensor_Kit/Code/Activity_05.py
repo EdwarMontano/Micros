@@ -1,8 +1,10 @@
+#Actividad 5
 import time
 import grovepi
 import math
 from grove_rgb_lcd import *
 
+print("Actividad 5- Estación de clima")
 # Connections
 sound_sensor = 1        # port A1
 light_sensor = 0        # port A0
