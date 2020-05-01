@@ -12,7 +12,7 @@ ultrasonic_ranger = 7
 Medida=[]
 offset=[]
 
-setRGB(50,150,255)
+setRGB(10,10,10)
 
 while True:
     try:
@@ -32,12 +32,12 @@ while True:
         ajuste=np.around(pro_estatura+pro_offset,1)
         
         
-        print(pro_estatura,'cm', " ,offset: ", pro_offset)
+        #print(pro_estatura,'cm', " ,offset: ", pro_offset)
         print(ajuste,'cm', " ,offset: ", pro_offset,"*****") 
         d = str(pro_estatura)
                
         
-        setText("dis:" + d + "cm\n" )
+        setText("dis:" + d + "cm\n"+ "offset:"+str(pro_offset)+ "cm\n")
 
     except (IOError, TypeError) as e:
         print(str(e))        

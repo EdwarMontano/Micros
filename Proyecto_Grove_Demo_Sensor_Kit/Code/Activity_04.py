@@ -4,7 +4,7 @@ from time import sleep
 from math import isnan
 
 ultrasonic_ranger = 7
-setRGB(0,0,255)
+setRGB(0,0,0)
 
 while True:
     try:
@@ -16,7 +16,7 @@ while True:
 
        
         
-        setRGB(0,0,255)
+        setRGB(10,10,10)
         setText("dis:" + d + "cm\n" )
 
     except (IOError, TypeError) as e:
