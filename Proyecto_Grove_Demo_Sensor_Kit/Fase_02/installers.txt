@@ -1,0 +1,3 @@
+installl:
+opencv:   https://www.learnopencv.com/install-opencv-4-on-raspberry-pi/
+https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
